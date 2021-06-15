@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @surya-nyt
 - 👀 I’m interested in learning new technologies and solving meaningful problems.
-- 🌱 I’m currently learning everything I can get my hands on!
 - 📫 @Surya on NYT Slack.
 
 <!---
