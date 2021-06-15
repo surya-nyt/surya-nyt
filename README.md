@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @surya-nyt
-- 👀 I’m interested in learning new technologies and solving meaningful problems.
-- 📫 @Surya on NYT Slack.
+👋 Hi, I’m @surya-nyt
+👀 I’m interested in learning new technologies and solving meaningful problems.
+📫 @Surya on NYT Slack.
 
 <!---
 surya-nyt/surya-nyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
